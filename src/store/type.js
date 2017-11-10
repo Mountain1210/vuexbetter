@@ -1,0 +1,4 @@
+export const INCREMENT='INCREMENT';
+export const DEINCREMENT='DEINCREMENT';
+export const CLICKODD='CLICKODD';
+export const CLICKASYNC='CLICKASYNC';
